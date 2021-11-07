@@ -10,3 +10,4 @@ Stuff that I want to do but haven't got around to yet
 
 1. Using Metcalfe's law to value low cap cryptos/NFTs
 2. On Chain analysis
+3. Creating a custom risk metric taking into account various factors
