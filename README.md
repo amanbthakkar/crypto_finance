@@ -7,6 +7,7 @@ Simply adding links to my blog posts that explain the code - also open to new bl
 3. **Stock-to-Flow summarized: the code, a brief outline and its limitations** - https://medium.datadriveninvestor.com/stock-to-flow-summarized-the-code-a-brief-outline-and-its-limitations-42a524163dde
 4. **Bitcoin’s Power Law Oscillator: the code, a summary and a suggested improvement**: https://medium.datadriveninvestor.com/bitcoins-power-law-oscillator-the-code-a-summary-and-a-suggested-improvement-b78b59a2bc9c
 
+Here's the live version of the Power Law Oscillator, updated daily: https://www.amanthakkar.com/power-law-oscillator-indicator/?source=github
 
 Stuff that I want to do but haven't got around to yet
 
